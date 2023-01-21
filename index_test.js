@@ -8,6 +8,8 @@ describe('Sum', () => {
 
         // Exercise
         sum = 3 + 4;
+
+        // verify
         assert.equal(sum, 7);
     })
 })
