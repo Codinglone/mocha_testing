@@ -7,7 +7,7 @@ describe('Sum', () => {
         let sum;
 
         // Exercise
-        sum = 3 + 4;
+        sum = 8 + 4;
 
         // verify
         assert.strictEqual(sum, 9);
