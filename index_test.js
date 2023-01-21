@@ -10,6 +10,6 @@ describe('Sum', () => {
         sum = 3 + 4;
 
         // verify
-        assert.strictEqual(sum, 7);
+        assert.strictEqual(sum, 9);
     })
 })
