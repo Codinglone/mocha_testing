@@ -1,0 +1,14 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing with mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index_test.js"
+  },
+  "author": "codinglone@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
