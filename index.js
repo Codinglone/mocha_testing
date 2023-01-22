@@ -12,3 +12,4 @@ const email = "codinglone@gmail.com";
 const country = "Rwanda";
 const motherName = "Marie";
 const dev = "React";
+const degree = "Bachelors";
