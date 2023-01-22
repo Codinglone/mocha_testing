@@ -8,3 +8,4 @@ const phone = "0784427142";
 const food = "rice";
 const pcType = "lenovo";
 const phoneType = "samsung";
+const email = "codinglone@gmail.com"
