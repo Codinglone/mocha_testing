@@ -10,3 +10,4 @@ const pcType = "lenovo";
 const phoneType = "samsung";
 const email = "codinglone@gmail.com";
 const country = "Rwanda";
+const motherName = "Marie";
